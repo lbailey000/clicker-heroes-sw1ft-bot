@@ -4,11 +4,11 @@
 
 ; Hotkeys:
 
-; Shift+F1 to start
-; Shift+F2 to pause
-; Shift+F3 to stop
-; Shift+F5 to reload the script (needed after configuration changes)
-; Shift+F6 to re-initialize coordinates (needed after moving or re-sizing the client window)
+; Shift+1 to start
+; Shift+2 to pause
+; Shift+3 to stop
+; Shift+5 to reload the script (needed after configuration changes)
+; Shift+6 to re-initialize coordinates (needed after moving or re-sizing the client window)
 
 ; Pause to Pause/unpause the script
 ; Ctrl+Esc to Suspend/Unsuspend all other Hotkeys
